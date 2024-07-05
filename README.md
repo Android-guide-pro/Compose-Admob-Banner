@@ -2,3 +2,6 @@
 ### How to implimet Admob Banner ad in compose?
 
 [![How to implimet Admob Banner ad in compose?](https://img.youtube.com/vi/vAlDqS6qj_E/0.jpg)](https://www.youtube.com/watch?v=vAlDqS6qj_E)
+
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
